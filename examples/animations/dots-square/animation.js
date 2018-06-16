@@ -7,7 +7,7 @@ window.addEventListener('load', function() {
       easing: 'ease-out',
     },
     {
-      offset: 0.1,
+      offset: 0.6,
       transform: 'translateY(200px)',
       easing: 'ease-in-out',
     },

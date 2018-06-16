@@ -12,7 +12,7 @@ window.addEventListener('load', function() {
   var dotAnimation = dot.animate(keyframes, timing);
 
   
-  document.getElementById('pause').addEventListener('click', function() { 
+  document.getElementById('pause').addEventListener('mouseover', function() { 
     dotAnimation.pause();
   });
   
